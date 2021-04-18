@@ -1,0 +1,548 @@
+{
+  "0": {
+    "title": "Fool",
+    "upright": "beginnings, innocence, spontaneity, a free spirit",
+    "reversed": "holding back, recklessness, risk-taking",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-00-the-Fool.jpg",
+    "link": "/tarot-card-meanings/major-arcana/fool/"
+  },
+  "1": {
+    "title": "The Magician",
+    "upright": "manifestation, resourcefulness, power, inspired action",
+    "reversed": "manipulation, poor planning, untapped talents",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-01-Magician.jpg",
+    "link": "/tarot-card-meanings/major-arcana/magician/"
+  },
+  "2": {
+    "title": "High Priestess",
+    "upright": "intuition, sacred knowledge, divine feminine, the subconscious mind",
+    "reversed": "secrets, disconnected from intuition, withdrawal and silence",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-02-High-Priestess.jpg",
+    "link": "/tarot-card-meanings/major-arcana/high-priestess/"
+  },
+  "3": {
+    "title": "The Empress",
+    "upright": "femininity, beauty, nature, nurturing, abundance",
+    "reversed": "creative block, dependence on others",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-03-The-Empress.jpg",
+    "link": "/tarot-card-meanings/major-arcana/empress/"
+  },
+  "4": {
+    "title": "The Emperor",
+    "upright": "authority, establishment, structure, a father figure",
+    "reversed": "domination, excessive control, lack of discipline, inflexibility",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-04-Emperor.jpg",
+    "link": "/tarot-card-meanings/major-arcana/emperor/"
+  },
+  "5": {
+    "title": "Hierophant",
+    "upright": "spiritual wisdom, religious beliefs, conformity, tradition,institutions",
+    "reversed": "personal beliefs, freedom, challenging the status quo",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-05-the-hierophant.png",
+    "link": "/tarot-card-meanings/major-arcana/hierophant/"
+  },
+  "6": {
+    "title": "Lovers",
+    "upright": "love, harmony, relationships, values alignment, choices",
+    "reversed": "self-love, disharmony, imbalance, misalignment of values",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-06-the-lovers.jpg",
+    "link": "/tarot-card-meanings/major-arcana/lovers/"
+  },
+  "7": {
+    "title": "Chariot",
+    "upright": "control, willpower, success, action, determination",
+    "reversed": "self-discipline, opposition, lack of direction",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-07-the-chariot.jpg",
+    "link": "/tarot-card-meanings/major-arcana/chariot/"
+  },
+  "8": {
+    "title": "Strength",
+    "upright": "strength, courage, persuasion, influence, compassion",
+    "reversed": "inner strength, self-doubt, low energy, raw emotion",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/04/ET-MA-08-strength.jpg",
+    "link": "/tarot-card-meanings/major-arcana/strength/"
+  },
+  "9": {
+    "title": "Hermit",
+    "upright": "soul-searching, introspection, being alone, inner guidance",
+    "reversed": "isolation, loneliness, withdrawal",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-09-the-hermit.jpg",
+    "link": "/tarot-card-meanings/major-arcana/hermit/"
+  },
+  "10": {
+    "title": "Wheel of Fortune",
+    "upright": "good luck, karma, life cycles, destiny, a turning point",
+    "reversed": "bad luck, resistance to change, breaking cycles",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-10-wheel-of-fortune.jpg",
+    "link": "/tarot-card-meanings/major-arcana/wheel-of-fortune/"
+  },
+  "11": {
+    "title": "Justice",
+    "upright": "justice, fairness, truth, cause and effect, law",
+    "reversed": "unfairness, lack of accountability, dishonesty",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-11-justice.png",
+    "link": "/tarot-card-meanings/major-arcana/justice/"
+  },
+  "12": {
+    "title": "Hanged Man",
+    "upright": "pause, surrender, letting go, new perspectives",
+    "reversed": "delays, resistance, stalling, indecision",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-12-the-hanged-man.png",
+    "link": "/tarot-card-meanings/major-arcana/hanged-man/"
+  },
+  "13": {
+    "title": "Death",
+    "upright": "endings, change, transformation, transition",
+    "reversed": "resistance to change, personal transformation, inner purging",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-13-Death.jpg",
+    "link": "/tarot-card-meanings/major-arcana/death/"
+  },
+  "14": {
+    "title": "Temperance",
+    "upright": "balance, moderation, patience, purpose",
+    "reversed": "imbalance, excess, self-healing, re-alignment",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-14-Temperance.jpg",
+    "link": "/tarot-card-meanings/major-arcana/temperance/"
+  },
+  "15": {
+    "title": "Devil",
+    "upright": "shadow self, attachment, addiction, restriction, sexuality",
+    "reversed": "releasing limiting beliefs, exploring dark thoughts, detachment",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-15-The-Devil.jpg",
+    "link": "/tarot-card-meanings/major-arcana/devil/"
+  },
+  "16": {
+    "title": "Tower",
+    "upright": "sudden change, upheaval, chaos, revelation, awakening",
+    "reversed": "personal transformation, fear of change, averting disaster",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-16-The-Tower.jpg",
+    "link": "/tarot-card-meanings/major-arcana/tower/"
+  },
+  "17": {
+    "title": "Star",
+    "upright": "hope, faith, purpose, renewal, spirituality",
+    "reversed": "lack of faith, despair, self-trust, disconnection",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-17-The-Star.jpg",
+    "link": "/tarot-card-meanings/major-arcana/star/"
+  },
+  "18": {
+    "title": "Moon",
+    "upright": "illusion, fear, anxiety, subconscious, intuition",
+    "reversed": "release of fear, repressed emotion, inner confusion",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-18-The-Moon.jpg",
+    "link": "/tarot-card-meanings/major-arcana/moon/"
+  },
+  "19": {
+    "title": "Sun",
+    "upright": "positivity, fun, warmth, success, vitality",
+    "reversed": "inner child, feeling down, overly optimistic",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-19-The-Sun.jpg",
+    "link": "/tarot-card-meanings/major-arcana/sun/"
+  },
+  "20": {
+    "title": "Judgement",
+    "upright": "judgement, rebirth, inner calling, absolution",
+    "reversed": "self-doubt, inner critic, ignoring the call",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-20-Judgement.jpg",
+    "link": "/tarot-card-meanings/major-arcana/judgement/"
+  },
+  "21": {
+    "title": "World",
+    "upright": "completion, integration, accomplishment, travel",
+    "reversed": "seeking personal closure, short-cuts, delays",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-21-The-World.jpg",
+    "link": "/tarot-card-meanings/major-arcana/world/"
+  },
+  "22": {
+    "title": "Ace of Wands",
+    "upright": "inspiration, new opportunities, growth, potential",
+    "reversed": "an emerging idea, lack of direction, distractions, delays",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-ace.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ace-of-wands/"
+  },
+  "23": {
+    "title": "Two of Wands",
+    "upright": "future planning, progress, decisions, discovery",
+    "reversed": "personal goals, inner alignment, fear of unknown, lack of planning",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-02.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/two-of-wands/"
+  },
+  "24": {
+    "title": "Three of Wands",
+    "upright": "progress, expansion, foresight, overseas opportunities",
+    "reversed": "playing small, lack of foresight, unexpected delays",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-03.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/three-of-wands/"
+  },
+  "25": {
+    "title": "Four of Wands",
+    "upright": "celebration, joy, harmony, relaxation, homecoming",
+    "reversed": "personal celebration, inner harmony, conflict with others, transition.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-04.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/four-of-wands/"
+  },
+  "26": {
+    "title": "Five of Wands",
+    "upright": "conflict, disagreements, competition, tension, diversity",
+    "reversed": "inner conflict, conflict avoidance, tension release",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-05.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/five-of-wands/"
+  },
+  "27": {
+    "title": "Six of Wands",
+    "upright": "success, public recognition, progress, self-confidence",
+    "reversed": "private achievement, personal definition of success, fall from grace, egotism",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-06.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/six-of-wands/"
+  },
+  "28": {
+    "title": "Seven of Wands",
+    "upright": "challenge, competition, protection, perseverance",
+    "reversed": "exhaustion, giving up, overwhelmed",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-07.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/seven-of-wands/"
+  },
+  "29": {
+    "title": "Eight of Wands",
+    "upright": "movement, fast paced change, action, alignment, air travel",
+    "reversed": "delays, frustration, resisting change, internal alignment",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-08.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/eight-of-wands/"
+  },
+  "30": {
+    "title": "Nine of Wands",
+    "upright": "resilience, courage, persistence, test of faith, boundaries",
+    "reversed": "inner resources, struggle, overwhelm, defensive, paranoia",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-09.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/nine-of-wands/"
+  },
+  "31": {
+    "title": "Ten of Wands",
+    "upright": "burden, extra responsibility, hard work, completion",
+    "reversed": "doing it all, carrying the burden, delegation, release",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-10.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ten-of-wands/"
+  },
+  "32": {
+    "title": "Page of Wands",
+    "upright": "inspiration, ideas, discovery, limitless potential, free spirit",
+    "reversed": "newly-formed ideas, redirecting energy, self-limiting beliefs, a spiritual path",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-page.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/page-of-wands/"
+  },
+  "33": {
+    "title": "Knight of Wands",
+    "upright": "energy, passion, inspired action, adventure, impulsiveness",
+    "reversed": "passion project, haste, scattered energy, delays, frustration",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-knight.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/knight-of-wands/"
+  },
+  "34": {
+    "title": "Queen of Wands",
+    "upright": "courage, confidence, independence, social butterfly, determination",
+    "reversed": "self-respect, self-confidence, introverted, re-establish sense of self",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-queen.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/queen-of-wands/"
+  },
+  "35": {
+    "title": "King of Wands",
+    "upright": "natural-born leader, vision, entrepreneur, honour",
+    "reversed": "impulsiveness, haste, ruthless, high expectations",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-WANDS-king.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/king-of-wands/"
+  },
+  "36": {
+    "title": "Ace of Cups",
+    "upright": "love, new relationships, compassion, creativity.",
+    "reversed": "self-love, intuition, repressed emotions.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-ace.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/ace-of-cups/"
+  },
+  "37": {
+    "title": "Two of Cups",
+    "upright": "unified love, partnership, mutual attraction",
+    "reversed": "self-love, break-ups, disharmony, distrust.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-02.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/two-of-cups/"
+  },
+  "38": {
+    "title": "Three of Cups",
+    "upright": "celebration, friendship, creativity, collaborations.",
+    "reversed": "independence, alone time, hardcore partying, ‘three’s a crowd’.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-03.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/three-of-cups/"
+  },
+  "39": {
+    "title": "Four of Cups",
+    "upright": "meditation, contemplation, apathy, reevaluation.",
+    "reversed": "retreat, withdrawal, checking in for alignment.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-04.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/four-of-cups/"
+  },
+  "40": {
+    "title": "Five of Cups",
+    "upright": "regret, failure, disappointment, pessimism.",
+    "reversed": "personal setbacks, self-forgiveness, moving on.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-05.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/five-of-cups/"
+  },
+  "41": {
+    "title": "Six of Cups",
+    "upright": "revisiting the past, childhood memories, innocence, joy.",
+    "reversed": "living in the past, forgiveness, lacking playfulness.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-06.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/six-of-cups/"
+  },
+  "42": {
+    "title": "Seven of Cups",
+    "upright": "opportunities, choices, wishful thinking, illusion.",
+    "reversed": "alignment, personal values, overwhelmed by choices.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-07.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/seven-of-cups/"
+  },
+  "43": {
+    "title": "Eight of Cups",
+    "upright": "disappointment, abandonment, withdrawal, escapism.",
+    "reversed": "trying one more time, indecision, aimless drifting, walking away.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-08.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/eight-of-cups/"
+  },
+  "44": {
+    "title": "Nine of Cups",
+    "upright": "contentment, satisfaction, gratitude, wish come true.",
+    "reversed": "inner happiness, materialism, dissatisfaction, indulgence.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-09.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/nine-of-cups/"
+  },
+  "45": {
+    "title": "Ten of Cups",
+    "upright": "divine love, blissful relationships, harmony, alignment.",
+    "reversed": "disconnection, misaligned values, struggling relationships.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-10.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/ten-of-cups/"
+  },
+  "46": {
+    "title": "Page of Cups",
+    "upright": "creative opportunities, intuitive messages, curiosity, possibility.",
+    "reversed": "new ideas, doubting intuition, creative blocks, emotional immaturity.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-page.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/page-of-cups/"
+  },
+  "47": {
+    "title": "Knight of Cups",
+    "upright": "creativity, romance, charm, imagination, beauty.",
+    "reversed": "overactive imagination, unrealistic, jealous, moody.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-knight.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/knight-of-cups/"
+  },
+  "48": {
+    "title": "Queen of Cups",
+    "upright": "compassionate, caring, emotionally stable, intuitive, in flow.",
+    "reversed": "inner feelings, self-care, self-love, co-dependency.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-queen.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/queen-of-cups/"
+  },
+  "49": {
+    "title": "King of Cups",
+    "upright": "emotionally balanced, compassionate, diplomatic.",
+    "reversed": "self-compassion, inner feelings, moodiness, emotionally manipulative.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-CUPS-king.jpg",
+    "link": "/tarot-card-meanings/minor-arcana/suit-of-cups/king-of-cups/"
+  },
+  "50": {
+    "title": "Ace of Swords",
+    "upright": "breakthroughs, new ideas, mental clarity, success",
+    "reversed": "inner clarity, re-thinking an idea, clouded judgement",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-ace.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/ace-of-swords/"
+  },
+  "51": {
+    "title": "Two of Swords",
+    "upright": "difficult decisions, weighing up options, an impasse, avoidance",
+    "reversed": "indecision, confusion, information overload, stalemate",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-02.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/two-of-swords/"
+  },
+  "52": {
+    "title": "Three of Swords",
+    "upright": "heartbreak, emotional pain, sorrow, grief, hurt",
+    "reversed": "negative self-talk, releasing pain, optimism, forgiveness",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-03.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/three-of-swords/"
+  },
+  "53": {
+    "title": "Four of Swords",
+    "upright": "rest, relaxation, meditation, contemplation, recuperation",
+    "reversed": "exhaustion, burn-out, deep contemplation, stagnation",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-04.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/four-of-swords/"
+  },
+  "54": {
+    "title": "Five of Swords",
+    "upright": "conflict, disagreements, competition, defeat, winning at all costs",
+    "reversed": "reconciliation, making amends, past resentment",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-05.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/five-of-swords/"
+  },
+  "55": {
+    "title": "Six of Swords",
+    "upright": "transition, change, rite of passage, releasing baggage.",
+    "reversed": "personal transition, resistance to change, unfinished business",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-06.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/six-of-swords/"
+  },
+  "56": {
+    "title": "Seven of Swords",
+    "upright": "betrayal, deception, getting away with something, acting strategically",
+    "reversed": "imposter syndrome, self-deceit, keeping secrets",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-07.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/seven-of-swords/"
+  },
+  "57": {
+    "title": "Eight of Swords",
+    "upright": "negative thoughts, self-imposed restriction, imprisonment, victim mentality",
+    "reversed": "self-limiting beliefs, inner critic, releasing negative thoughts, open to new perspectives",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-08.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/eight-of-swords/"
+  },
+  "58": {
+    "title": "Nine of Swords",
+    "upright": "anxiety, worry, fear, depression, nightmares",
+    "reversed": "inner turmoil, deep-seated fears, secrets, releasing worry",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-09.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/nine-of-swords/"
+  },
+  "59": {
+    "title": "Ten of Swords",
+    "upright": "painful endings, deep wounds, betrayal, loss, crisis",
+    "reversed": "recovery, regeneration, resisting an inevitable end",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-10.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/ten-of-swords/"
+  },
+  "60": {
+    "title": "Page of Swords",
+    "upright": "new ideas, curiosity, thirst for knowledge, new ways of communicating",
+    "reversed": "self-expression, all talk and no action, haphazard action, haste",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-page.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/page-of-swords/"
+  },
+  "61": {
+    "title": "Knight of Swords",
+    "upright": "ambitious, action-oriented, driven to succeed, fast-thinking",
+    "reversed": "restless, unfocused, impulsive, burn-out",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/04/ET-SWORDS-knight.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/knight-of-swords/"
+  },
+  "62": {
+    "title": "Queen of Swords",
+    "upright": "independent, unbiased judgement, clear boundaries, direct communication",
+    "reversed": "overly-emotional, easily influenced, bitchy, cold-hearted",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-queen.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/queen-of-swords/"
+  },
+  "63": {
+    "title": "King of Swords",
+    "upright": "mental clarity, intellectual power, authority, truth",
+    "reversed": "quiet power, inner truth, misuse of power, manipulation",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-king.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/king-of-swords/"
+  },
+  "64": {
+    "title": "Ace of Pentacles",
+    "upright": "a new financial or career opportunity, manifestation, abundance.",
+    "reversed": "lost opportunity, lack of planning and foresight.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-ace.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/ace-of-pentacles/"
+  },
+  "65": {
+    "title": "Two of Pentacles",
+    "upright": "multiple priorities, time management, prioritisation, adaptability.",
+    "reversed": "over-committed, disorganisation, reprioritisation.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-02.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/two-of-pentacles/"
+  },
+  "66": {
+    "title": "Three of Pentacles",
+    "upright": "teamwork, collaboration, learning, implementation.",
+    "reversed": "disharmony, misalignment, working alone.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-03.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/three-of-pentacles/"
+  },
+  "67": {
+    "title": "Four of Pentacles",
+    "upright": "saving money, security, conservatism, scarcity, control.",
+    "reversed": "over-spending, greed, self-protection.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-04.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/four-of-pentacles/"
+  },
+  "68": {
+    "title": "Five of Pentacles",
+    "upright": "financial loss, poverty, lack mindset, isolation, worry.",
+    "reversed": "recovery from financial loss, spiritual poverty.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-05.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/five-of-pentacles/"
+  },
+  "69": {
+    "title": "Six of Pentacles",
+    "upright": "giving, receiving, sharing wealth, generosity, charity.",
+    "reversed": "self-care, unpaid debts, one-sided charity.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-06.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/six-of-pentacles/"
+  },
+  "70": {
+    "title": "Seven of Pentacles",
+    "upright": "long-term view, sustainable results, perseverance, investment.",
+    "reversed": "lack of long-term vision, limited success or reward.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-07.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/seven-of-pentacles/"
+  },
+  "71": {
+    "title": "Eight of Pentacles",
+    "upright": "apprenticeship, repetitive tasks, mastery, skill development.",
+    "reversed": "self-development, perfectionism, misdirected activity.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-08.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/eight-of-pentacles/"
+  },
+  "72": {
+    "title": "Nine of Pentacles",
+    "upright": "abundance, luxury, self-sufficiency, financial independence.",
+    "reversed": "self-worth, over-investment in work, hustling.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-09.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/nine-of-pentacles/"
+  },
+  "73": {
+    "title": "Ten of Pentacles",
+    "upright": "wealth, financial security, family, long-term success, contribution.",
+    "reversed": "the dark side of wealth, financial failure or loss.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-10.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/ten-of-pentacles/"
+  },
+  "74": {
+    "title": "Page of Pentacles",
+    "upright": "manifestation, financial opportunity, skill development.",
+    "reversed": "lack of progress, procrastination, learn from failure.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-page.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/page-of-pentacles/"
+  },
+  "75": {
+    "title": "Knight of Pentacles",
+    "upright": "hard work, productivity, routine, conservatism.",
+    "reversed": "self-discipline, boredom, feeling ‘stuck’, perfectionism.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-knight.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/knight-of-pentacles/"
+  },
+  "76": {
+    "title": "Queen of Pentacles",
+    "upright": "nurturing, practical, providing financially, a working parent.",
+    "reversed": "financial independence, self-care, work-home conflict.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-queen.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/queen-of-pentacles/"
+  },
+  "77": {
+    "title": "King of Pentacles",
+    "upright": "wealth, business, leadership, security, discipline, abundance.",
+    "reversed": "financially inept, obsessed with wealth and status, stubborn.",
+    "img": "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-king.jpg",
+    "link": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/king-of-pentacles/"
+  }
+}
