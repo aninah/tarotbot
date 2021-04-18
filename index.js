@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const cards = require("./cards.json")
 const client = new Discord.Client();
+const config = require("./config.json");
 
 client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`);
@@ -13,7 +14,7 @@ client.on('message', msg => {
 	}
 });
 
-client.login('ODEyMTc3MjQxOTcwMTgwMTI2.YC89AA.Ot6tHh9LhmImcByG5rYop4P4sE0');
+client.login(config.token);
 
 function extract_card_info(num) {
 	let o = "reversed";
@@ -58,7 +59,7 @@ function answer_the_ask(m, msg) {
 			return;
 		case "1card":
 			tarot_numbers = draw_cards(1);
-			actual_message = "\`\`\`" + extract_card_info(tarot_numbers[0]) + "\`\`\`";
+			actual_message = `\`\`\`${extract_card_info(tarot_numbers[0])}\`\`\``;
 			break;
 		case "3card":
 			tarot_numbers = draw_cards(3);
@@ -81,8 +82,14 @@ function answer_the_ask(m, msg) {
 			break;
 
 		default:
-			msg.reply("I don't recognize the command. Try again?");
-			return;
+			if (msg.author.id === config.the_maker) {
+				msg.reply("your tarot reading is that ur basically the coolest person in chat ;) stay fresh kween");
+			} else {
+				msg.reply("I don't recognize the command. Try again?");
+				return;
+			}
+
+			
 		}
 
 
